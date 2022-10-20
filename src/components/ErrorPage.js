@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 const ErrorPage = () => {
   return (
@@ -37,12 +37,12 @@ const ErrorPage = () => {
           <p className='text-2xl font-semibold md:text-3xl mb-8'>
             Sorry, we couldn't find this page.
           </p>
-          <a
-            href='#'
+          <Link
+            to='/'
             className='px-8 py-3 font-semibold rounded bg-gray-900 hover:bg-gray-700 text-gray-100'
           >
             Back to homepage
-          </a>
+          </Link>
         </div>
       </div>
     </section>

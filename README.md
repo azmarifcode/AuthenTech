@@ -1,14 +1,32 @@
-# AuthenTech-Complete
+# Project Name: AuthenTech
 
-Live Link -> [AuthenTech](https://authentech-9cd3a.web.app/).
+- [Live Link](https://authentech-8f87f.web.app/)
+- [GitHub Link](https://github.com/azmarifcode/AuthenTech)
+
+## Documentation
+
+- Firebase Doc -> [Firebase](https://firebase.google.com/docs/web/).
+- Context API Doc -> [COntext API](https://reactjs.org/docs/context.html).
+- React Router Dom Doc -> [React Router Dom](https://reactrouter.com/en/main).
+- Tailwind CSS Doc -> [Tailwind CSS](https://tailwindcss.com/docs/installation).
 
 
-Firebase Doc -> [Firebase](https://firebase.google.com/docs/web/).
+## Website Details
+- 
+- 
+- 
+- 
 
-Context API Doc -> [COntext API](https://reactjs.org/docs/context.html).
+## API Link
 
-React Router Dom Doc -> [React Router Dom](https://reactrouter.com/en/main).
+- [Quiz category API]()
+- [Quiz option API]()
+- [Example]()
 
-Tailwind CSS Doc -> [Tailwind CSS](https://tailwindcss.com/docs/installation).
+## I have used some libraries in this app.
 
-
+- [MambaUi](https://www.mambaui.com)
+- [Tailwind](https://tailwindcomponents.com)
+- [Kitwind](https://kitwind.io)
+- [Recharts](https://recharts.org)
+- [DaisyUi](https://daisyui.com)
